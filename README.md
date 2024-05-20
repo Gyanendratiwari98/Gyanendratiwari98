@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/Gyanendratiwari98/Gyanendratiwari98/blob/main/image.png">
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [http://8.208.100.192/my%20portfoliyo/](http://8.208.100.192/my%20portfoliyo/)
+- 👨‍💻 All of my projects are available at [https://gyanendraportfolio.freewebhostmost.com/)
 
 - 💬 Ask me about **web development , python machine learning**
 
