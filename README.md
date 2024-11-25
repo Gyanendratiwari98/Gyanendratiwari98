@@ -5,13 +5,13 @@
 <img align="right" alt="coding" width="400" src="https://github.com/Gyanendratiwari98/Gyanendratiwari98/blob/main/image.png">
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://gyanendraportfolio.freewebhostmost.com/)
+- 👨‍💻 My portfolio website - [https://gyanendraportfolio.freewebhostmost.com/)
 
 - 💬 Ask me about **web development , python machine learning**
 
 - 📫 How to reach me **tiwari.gyanendra.9827@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cMqyEZHkd_Vahrsr_EqVRZETySYNlXR7/view?usp=drive_link](https://drive.google.com/file/d/1cMqyEZHkd_Vahrsr_EqVRZETySYNlXR7/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cMqyEZHkd_Vahrsr_EqVRZETySYNlXR7/view?usp=drive_link]([https://drive.google.com/file/d/1cMqyEZHkd_Vahrsr_EqVRZETySYNlXR7/view?usp=drive_link](https://drive.google.com/file/d/1bCMhF9-H2YFw6QeMW98pZCwCLCCpWvyU/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
