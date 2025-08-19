@@ -67,7 +67,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyanendratiwari98&theme=onestar&no-frame=true&margin-w=15&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gyanendratiwari98&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 ---
