@@ -1,0 +1,23 @@
+name: Generate Snake
+
+on:
+  schedule: # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: Gyanendratiwari98
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "update snake animation"
+          add: "dist/github-contribution-grid-snake.svg"
