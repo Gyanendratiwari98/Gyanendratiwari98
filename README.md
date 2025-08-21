@@ -32,6 +32,12 @@
 <a href="mailto:tiwari.gyanendra.9827@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://leetcode.com/u/gyanendra_98/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+<a href="https://www.kaggle.com/gyanendratiwari98" target="_blank">
+  <img src="https://img.shields.io/badge/-Kaggle-%2300BFFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 </p>
 
 ---
