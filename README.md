@@ -57,6 +57,13 @@
 
 ---
 
+## 🏅 LeetCode Badges
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=gyanendra_98&theme=dark" alt="LeetCode Badges"/>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gyanendratiwari98&theme=blueberry&hide_border=true&border_radius=10" alt="GitHub Streak" />
