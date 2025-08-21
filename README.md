@@ -64,6 +64,15 @@
 
 ---
 
+##  Kaggle Profile
+<p align="center">
+  <a href="https://www.kaggle.com/gyanendratiwari98" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
+  </a>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gyanendratiwari98&theme=blueberry&hide_border=true&border_radius=10" alt="GitHub Streak" />
