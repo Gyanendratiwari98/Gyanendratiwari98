@@ -13,11 +13,14 @@
 
 ---
 
-## 🧠 About Me
-- 🌱 Currently learning **Artificial Intelligence & Machine Learning**  
-- 💬 Ask me about **Web Development, Python, Machine Learning, Deep Learning**  
-- 📫 Reach me at: **tiwari.gyanendra.9827@gmail.com**  
+## 🧠 About Me  
+- 🚀 Exploring the future with **Artificial Intelligence, Machine Learning & Next-Gen Technologies**  
+- 🤖 Passionate about building **AI-powered solutions** that solve real-world problems  
+- 💡 Skilled in **Web Development | Python | Machine Learning | Deep Learning | Future Tech**  
+- 🌍 Vision: To create **intelligent systems** that transform industries and improve lives  
+- 📫 Connect with me at: **tiwari.gyanendra.9827@gmail.com**  
 - 📄 [My Resume](https://drive.google.com/file/d/1bCMhF9-H2YFw6QeMW98pZCwCLCCpWvyU/view?usp=drive_link)  
+
 
 ---
 
@@ -33,12 +36,16 @@
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/gyanendra_98/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://www.kaggle.com/gyanendratiwari98" target="_blank">
-  <img src="https://img.shields.io/badge/-Kaggle-%2300BFFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/gyanendra_98" target="_blank">
+  <img src="https://img.shields.io/badge/-CodeChef-B92B27?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 </p>
+
 
 ---
 
