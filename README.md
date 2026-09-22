@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Gyanendratiwari98/Gyanendratiwari98/blob/main/Github%20Banner.png" alt="Banner" />
+  <img src="https://github.com/Gyanendratiwari98/Gyanendratiwari98/blob/main/Screenshot%20(34).png" alt="Banner" />
 </p>
 
 <!-- Typing Animation -->
