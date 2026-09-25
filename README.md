@@ -19,7 +19,7 @@
 - 💡 Skilled in **Web Development | Python | Machine Learning | Deep Learning | Future Tech**  
 - 🌍 Vision: To create **intelligent systems** that transform industries and improve lives  
 - 📫 Connect with me at: **tiwari.gyanendra.9827@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1bCMhF9-H2YFw6QeMW98pZCwCLCCpWvyU/view?usp=drive_link)  
+- 📄 [My Resume](https://drive.google.com/file/d/1lMeA3bzETb8E60hJ34KJzM143ikTJd_d/view?usp=drive_link)  
 
 
 ---
